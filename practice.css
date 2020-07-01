@@ -1,1 +1,9 @@
-body {background:red }
+body {background:red;
+margin: 0rem;
+margin-block-end: 0vw }
+title{direction: initial}
+
+
+feFuncR { display: block;}
+
+figure{glyph-orientation-horizontal: initial}
