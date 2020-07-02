@@ -7,3 +7,5 @@ title{direction: initial}
 feFuncR { display: block;}
 
 figure{glyph-orientation-horizontal: initial}
+path{height: 0px;}
+h1{clear: inherit}
